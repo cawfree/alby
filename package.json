@@ -1,0 +1,34 @@
+{
+  "name": "alby",
+  "version": "1.0.0",
+  "description": "A JSON validator and safe fallback utility for those rare times you can't trust your config.",
+  "main": "index.js",
+  "repository": "https://github.com/cawfree/alby",
+  "author": "@cawfree <hello@cawfree.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "TERM=dumb jest --watch --verbose false"
+  },
+  "keywords": [
+    "json",
+    "validate",
+    "validation",
+    "fallback",
+    "default",
+    "error",
+    "safe",
+    "revert"
+  ],
+  "dependencies": {
+    "jsonschema": "^1.2.4",
+    "lodash.clonedeep": "^4.5.0",
+    "lodash.get": "^4.4.2",
+    "lodash.merge": "^4.6.1",
+    "lodash.set": "^4.3.2"
+  },
+  "devDependencies": {
+    "is-css3-color": "^1.0.0",
+    "jest": "^24.8.0"
+  }
+}
