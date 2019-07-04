@@ -1,6 +1,6 @@
 {
   "name": "alby",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JSON validator and safe fallback utility for those rare times you can't trust your config.",
   "main": "index.js",
   "repository": "https://github.com/cawfree/alby",
