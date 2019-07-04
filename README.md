@@ -1,6 +1,10 @@
 # alby
 A JSON validator and safe fallback utility for those rare times you can't trust your config. 
 
+<p align="center">
+  <img src="./bin/alby.jpg" alt="Love you, boy." width="600" height="800">
+</p>
+
 ## 🚀 Getting Started
 
 Using [npm](https://www.npmjs.com/package/alby):
