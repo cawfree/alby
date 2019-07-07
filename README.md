@@ -62,8 +62,8 @@ const schema = {
   id: '/Example',
   type: 'object',
   properties: {
-    text: {
-      title: 'string',
+    title: {
+      type: 'string',
     },
   },
   required: [
